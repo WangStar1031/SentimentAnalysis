@@ -1,0 +1,199 @@
+[
+  {
+    "title":"Paolo",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>Test test</p>",
+    "start":"2017-06-29T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Free Pizza",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the Free Pizza.</p><p>Nothing to see!</p>",
+    "start":"2017-06-29T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"DNUG Meeting",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the DNUG Meeting.</p><p>Nothing to see!</p>",
+    "start":"2017-06-30T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Staff Meeting",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the Staff Meeting.</p><p>Nothing to see!</p>",
+    "start":"2017-07-01T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Poker Night",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the Poker Night.</p><p>Nothing to see!</p>",
+    "start":"2017-06-17T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Beer Garden",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the Beer Garden.</p><p>Nothing to see!</p>",
+    "start":"2017-07-03T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"XBox Tourney",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the XBox Tourney.</p><p>Nothing to see!</p>",
+    "start":"2017-07-04T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Pool Party",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the Pool Party.</p><p>Nothing to see!</p>",
+    "start":"2017-07-05T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Staff Meeting",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the Staff Meeting.</p><p>Nothing to see!</p>",
+    "start":"2017-06-21T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Poker Night",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the Poker Night.</p><p>Nothing to see!</p>",
+    "start":"2017-07-13T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Hackathon",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the Hackathon.</p><p>Nothing to see!</p>",
+    "start":"2017-07-08T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Beta Testing",
+    "allday":"false",
+    "borderColor":"#5173DA",
+    "color":"#99ABEA",
+    "textColor":"#000000",
+    "description":"<p>This is just a fake description for the Beta Testing.</p><p>Nothing to see!</p>",
+    "start":"2017-07-09T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/worst-job-titles-in-internet-and-info-tech/"
+  },
+  {
+    "title":"Perl Meetup",
+    "allday":"false",
+    "borderColor":"#820F20",
+    "color":"#A6113C",
+    "textColor":"#ffffff",
+    "description":"<p>This is just a fake description for the Perl Meetup.</p><p>Nothing to see!</p>",
+    "start":"2017-06-29T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/migrating-from-asp-net-to-ghost-node-js/"
+  },
+  {
+    "title":"Node.js Meetup",
+    "allday":"false",
+    "borderColor":"#820F20",
+    "color":"#A6113C",
+    "textColor":"#ffffff",
+    "description":"<p>This is just a fake description for the Node.js Meetup.</p><p>Nothing to see!</p>",
+    "start":"2017-06-30T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/migrating-from-asp-net-to-ghost-node-js/"
+  },
+  {
+    "title":"Javascript Meetup",
+    "allday":"false",
+    "borderColor":"#820F20",
+    "color":"#A6113C",
+    "textColor":"#ffffff",
+    "description":"<p>This is just a fake description for the Javascript Meetup.</p><p>Nothing to see!</p>",
+    "start":"2017-07-01T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/migrating-from-asp-net-to-ghost-node-js/"
+  },
+  {
+    "title":"HTML Meetup",
+    "allday":"false",
+    "borderColor":"#820F20",
+    "color":"#A6113C",
+    "textColor":"#ffffff",
+    "description":"<p>This is just a fake description for the HTML Meetup.</p><p>Nothing to see!</p>",
+    "start":"2017-06-25T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/migrating-from-asp-net-to-ghost-node-js/"
+  },
+  {
+    "title":"CSS Meetup",
+    "allday":"false",
+    "borderColor":"#820F20",
+    "color":"#A6113C",
+    "textColor":"#ffffff",
+    "description":"<p>This is just a fake description for the CSS Meetup.</p><p>Nothing to see!</p>",
+    "start":"2017-07-03T10:57:39",
+    "url":"http://www.mikesmithdev.com/blog/migrating-from-asp-net-to-ghost-node-js/"
+  },
+  {
+	"title": "ong",
+	"allday": "false",
+	"borderColor": "#5173DA",
+	"color": "#99ABEA",
+	"textColor": "#000000",
+	"description": "Elaborazione Terminata",
+	"url": "#",
+	"start": "2017-05-06T10:57:39"
+}, {
+	"title": "raggi",
+	"allday": "false",
+	"borderColor": "#5173DA",
+	"color": "#99ABEA",
+	"textColor": "#000000",
+	"description": "Elaborazione Terminata",
+	"url": "#",
+	"start": "2017-06-20T10:57:39"
+}, {
+	"title": "minniti",
+	"allday": "false",
+	"borderColor": "#5173DA",
+	"color": "#99ABEA",
+	"textColor": "#000000",
+	"description": "Elaborazione Terminata",
+	"url": "#",
+	"start": "2017-06-21T10:57:39"
+}]
